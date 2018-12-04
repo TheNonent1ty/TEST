@@ -8,5 +8,6 @@ public class gitTest {
 		System.out.println("github.com");
 		System.out.println("dev");
 		System.out.println("conflict2");
+		System.out.println("conflict1");
 	}
 }
