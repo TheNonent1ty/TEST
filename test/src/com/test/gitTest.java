@@ -7,5 +7,6 @@ public class gitTest {
 		System.out.println("hello world");
 		System.out.println("github.com");
 		System.out.println("dev");
+		System.out.println("conflict2");
 	}
 }
