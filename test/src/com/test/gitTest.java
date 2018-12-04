@@ -9,6 +9,7 @@ public class gitTest {
 		System.out.println("dev");
 		System.out.println("conflict2");
 		System.out.println("conflict1");
+		System.out.println("add1");
 	}
 }
 class fun1{
