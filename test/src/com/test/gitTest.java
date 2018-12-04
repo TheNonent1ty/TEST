@@ -14,3 +14,9 @@ public class gitTest {
 class fun1{
 	
 }
+class fun2{
+	
+}
+class fun3{
+	
+}
