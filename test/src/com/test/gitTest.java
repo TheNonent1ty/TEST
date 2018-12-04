@@ -11,6 +11,7 @@ public class gitTest {
 		System.out.println("conflict1");
 		System.out.println("add1");
 		System.out.println("add2");
+		System.out.println("add3");
 	}
 }
 class fun1{
