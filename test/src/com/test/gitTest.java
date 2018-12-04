@@ -11,3 +11,6 @@ public class gitTest {
 		System.out.println("conflict1");
 	}
 }
+class fun1{
+	
+}
